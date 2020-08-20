@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StopWatchMilisecon</string>
+    <string name="clock">Clock With Millisecond</string>
+</resources>
